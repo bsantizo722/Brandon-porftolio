@@ -22,16 +22,13 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
-
-img{
-    display: block;
-}
 article img{
     margin-left: 350px;
     margin-right: 350px;
 }
 article ul{
     text-align: center;
+    text-decoration: none;
 }
 a{
     font-size: 30px;
