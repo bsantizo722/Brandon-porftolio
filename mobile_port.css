@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* 
+    Portfolio home page CSS
+    Author: Brandon Santizo
+    Date: 11/05/19 
+*/
+
+@import url("port_home.css");
+
+/* ============================================
+	Mobile Devices: 0 - 480 pixels
+   ============================================
+*/
+@media only screen and (max-width:480px){
+    body{
+        padding-left: 10%;
+        padding-right: 15%;
+        padding-top: 40%;
+        padding-bottom: 60%;
+    }
+    article{
+        width: 100%;
+    }
+    nav.horizontal{
+        order: 99;
+    
+    }
+    footer{
+        order: 100;
+    }
+
+}
+
+
+
+
+
+
+
+

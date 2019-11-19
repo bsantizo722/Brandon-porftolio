@@ -21,6 +21,7 @@ body{
     max-width: 960px;
     margin-left: auto;
     margin-right: auto;
+    scroll-margin-bottom: auto;
 }
 article img{
     margin-left: 350px;
@@ -71,3 +72,4 @@ footer{
     margin-right: 350px;
     margin-left: 220px;
 }
+
